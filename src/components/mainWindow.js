@@ -1,8 +1,8 @@
 import React from "react";
 import Draggable from "react-draggable";
-import WindowHeader from "../components/WindowHeader";
-import Links from "../components/links";
-import Gif from "../components/gif";
+import WindowHeader from "./WindowHeader";
+import Links from "./Links";
+import Gif from "./Gif";
 export default function MainWindow() {
   return (
     <>
