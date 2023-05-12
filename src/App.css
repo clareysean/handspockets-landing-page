@@ -19,6 +19,7 @@ body {
 }
 
 .page-container {
+  margin: 0;
   text-align: center;
   box-sizing: border-box;
   height: 100%;
@@ -29,35 +30,43 @@ body {
 
 .left-container {
   width: 20%;
-  height: fit-content;
   min-width: fit-content;
-  margin: auto;
+  margin: 0 auto;
   display: flex;
   flex-flow: column wrap;
   align-items: center;
-  justify-content: space-around;
   overflow: hidden;
   padding: 0.45rem;
   background-color: var(--hookers-green);
   outline: 5px solid gray;
   outline-style: outset;
   border: 2px solid gray;
+  flex-grow: 0;
 }
 
 .right-container {
   width: 20%;
-  height: fit-content;
-  margin: 1rem auto;
+  margin: 0 auto;
   min-width: fit-content;
   padding: 0.45rem;
   display: flex;
   flex-flow: column wrap;
   align-items: center;
-  justify-content: space-around;
   background-color: var(--hookers-green);
   outline: 5px solid gray;
   outline-style: outset;
   border: 2px solid gray;
+  flex-grow: 0;
+}
+
+.left-container-hidden {
+  visibility: hidden;
+  flex-grow: 0.582;
+}
+
+.right-container-hidden {
+  visibility: hidden;
+  flex-grow: 0.582;
 }
 
 .window-header {
@@ -141,6 +150,9 @@ svg {
   .window-header.right {
     width: 164%;
     right: 4rem;
+  }
+  .right-container {
+    margin: 1rem auto;
   }
 }
 

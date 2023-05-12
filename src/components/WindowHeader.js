@@ -1,9 +1,11 @@
 import React from "react";
 import PropTypes from "prop-types";
-export default function WindowHeader({ windowTitle, className }) {
+export default function WindowHeader({ windowTitle, className, onClick }) {
   return (
     <div>
-      <button className="xButton">X</button>
+      <button className="xButton" onClick={onClick}>
+        X
+      </button>
       <header className={className}>{windowTitle}</header>
     </div>
   );
@@ -12,4 +14,5 @@ export default function WindowHeader({ windowTitle, className }) {
 WindowHeader.propTypes = {
   windowTitle: PropTypes.string.isRequired,
   className: PropTypes.string.isRequired,
+  onClick: PropTypes.func.isRequired,
 };
