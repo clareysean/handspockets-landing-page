@@ -13,11 +13,6 @@
   --amaranth: rgb(198, 69, 110);
 }
 
-body {
-  padding-top: 3rem;
-  background-image: url(assets/bliss-background.png);
-}
-
 .page-container {
   margin: 0;
   text-align: center;
@@ -61,12 +56,12 @@ body {
 
 .left-container-hidden {
   visibility: hidden;
-  flex-grow: 0.582;
+  flex-grow: 0.583;
 }
 
 .right-container-hidden {
   visibility: hidden;
-  flex-grow: 0.582;
+  flex-grow: 0.583;
 }
 
 .window-header {
@@ -132,6 +127,17 @@ svg {
   height: 3rem;
   padding: 1rem;
   color: var(--vanilla);
+}
+
+footer {
+  width: 100%;
+  margin: 5rem auto auto auto;
+  text-align: center; /* Centers the child elements horizontally */
+}
+
+footer * {
+  display: inline-block; /* Makes the child elements inline */
+  vertical-align: middle; /* Aligns the child elements vertically */
 }
 
 @media (min-width: 1450px) {

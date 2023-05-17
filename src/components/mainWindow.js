@@ -1,6 +1,7 @@
 import React from "react";
 import LeftWindow from "./LeftWindow";
 import RightWindow from "./RightWindow";
+import Footer from "./Footer";
 
 export default function MainWindow() {
   return (
@@ -9,6 +10,7 @@ export default function MainWindow() {
         <LeftWindow />
         <RightWindow />
       </div>
+      <Footer />
     </>
   );
 }
