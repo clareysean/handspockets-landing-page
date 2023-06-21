@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b7aae41.css",
-    "main.js": "/static/js/main.7d5e6eb4.js",
-    "static/js/651.6fc20215.chunk.js": "/static/js/651.6fc20215.chunk.js",
-    "static/media/Pigathan-Twirl-Logo.gif": "/static/media/Pigathan-Twirl-Logo.78a41dc8c4134d1265ba.gif",
-    "static/media/bliss-background.png": "/static/media/bliss-background.bf75d8d92914cc4344cd.png",
-    "static/media/instagram.svg": "/static/media/instagram.5b2e828783a7622f3e1497ec17f6e4cf.svg",
-    "static/media/github-142-svgrepo-com.svg": "/static/media/github-142-svgrepo-com.1a6e2b19fa37774df5ddbb77774e6997.svg",
-    "static/media/spotify.svg": "/static/media/spotify.6df6c1147a3f1365095287b7dfd8e019.svg",
-    "static/media/apple-music.svg": "/static/media/apple-music.0885aa6137a9018b5ee95869879c7e57.svg",
-    "static/media/tiktok.svg": "/static/media/tiktok.19fc74537cc2da027b186c5758b3f005.svg",
-    "index.html": "/index.html",
-    "static/media/bandcamp.svg": "/static/media/bandcamp.3ffb44882c6625b58835675faa763609.svg",
-    "static/media/tidal.svg": "/static/media/tidal.16349eb4f217dd7c97063ac94b19d603.svg",
-    "main.4b7aae41.css.map": "/static/css/main.4b7aae41.css.map",
-    "main.7d5e6eb4.js.map": "/static/js/main.7d5e6eb4.js.map",
-    "651.6fc20215.chunk.js.map": "/static/js/651.6fc20215.chunk.js.map"
+    "main.css": "/handspockets-landing-page/static/css/main.9c0b90f5.css",
+    "main.js": "/handspockets-landing-page/static/js/main.bd423756.js",
+    "static/js/651.6fc20215.chunk.js": "/handspockets-landing-page/static/js/651.6fc20215.chunk.js",
+    "static/media/Pigathan-Twirl-Logo.gif": "/handspockets-landing-page/static/media/Pigathan-Twirl-Logo.78a41dc8c4134d1265ba.gif",
+    "static/media/bliss-background.png": "/handspockets-landing-page/static/media/bliss-background.bf75d8d92914cc4344cd.png",
+    "static/media/instagram.svg": "/handspockets-landing-page/static/media/instagram.5b2e828783a7622f3e1497ec17f6e4cf.svg",
+    "static/media/github-142-svgrepo-com.svg": "/handspockets-landing-page/static/media/github-142-svgrepo-com.1a6e2b19fa37774df5ddbb77774e6997.svg",
+    "static/media/spotify.svg": "/handspockets-landing-page/static/media/spotify.6df6c1147a3f1365095287b7dfd8e019.svg",
+    "static/media/apple-music.svg": "/handspockets-landing-page/static/media/apple-music.0885aa6137a9018b5ee95869879c7e57.svg",
+    "index.html": "/handspockets-landing-page/index.html",
+    "static/media/tiktok.svg": "/handspockets-landing-page/static/media/tiktok.19fc74537cc2da027b186c5758b3f005.svg",
+    "static/media/bandcamp.svg": "/handspockets-landing-page/static/media/bandcamp.3ffb44882c6625b58835675faa763609.svg",
+    "static/media/tidal.svg": "/handspockets-landing-page/static/media/tidal.16349eb4f217dd7c97063ac94b19d603.svg",
+    "main.9c0b90f5.css.map": "/handspockets-landing-page/static/css/main.9c0b90f5.css.map",
+    "main.bd423756.js.map": "/handspockets-landing-page/static/js/main.bd423756.js.map",
+    "651.6fc20215.chunk.js.map": "/handspockets-landing-page/static/js/651.6fc20215.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b7aae41.css",
-    "static/js/main.7d5e6eb4.js"
+    "static/css/main.9c0b90f5.css",
+    "static/js/main.bd423756.js"
   ]
 }
