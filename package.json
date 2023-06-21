@@ -16,11 +16,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-<<<<<<< HEAD
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b main -d build",
-=======
->>>>>>> parent of 66c3cf9 (adjust flex grow)
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
