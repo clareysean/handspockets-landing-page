@@ -10,7 +10,7 @@ export default function MainWindow() {
         <LeftWindow />
         <RightWindow />
       </div>
-      <Footer />
+      <Footer className="footer" />
     </>
   );
 }
