@@ -1,3 +1,9 @@
+# Handspockets Landing Page
+
+## About
+
+This is a simple react app containing two draggable windows, bootstrapped with create-react-app and [react-draggable](https://www.npmjs.com/package/react-draggable). React Draggable lets you easily create draggable components with their component wrapper; "...A <Draggable> element wraps an existing element and extends it with new event handlers and styles. It does not create a wrapper element in the DOM."
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
