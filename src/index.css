@@ -1,5 +1,6 @@
 html {
   background-color: var(--space-cadet);
+  overflow: hidden;
 }
 
 body {
