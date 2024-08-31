@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/handspockets-landing-page/static/css/main.3b011ed9.css",
+    "main.js": "/handspockets-landing-page/static/js/main.e0d7d0bd.js",
+    "static/js/651.156f1c54.chunk.js": "/handspockets-landing-page/static/js/651.156f1c54.chunk.js",
+    "static/media/Pigathan-Twirl-Logo.gif": "/handspockets-landing-page/static/media/Pigathan-Twirl-Logo.78a41dc8c4134d1265ba.gif",
+    "static/media/bliss-background.png": "/handspockets-landing-page/static/media/bliss-background.bf75d8d92914cc4344cd.png",
+    "static/media/instagram.svg": "/handspockets-landing-page/static/media/instagram.5b2e828783a7622f3e1497ec17f6e4cf.svg",
+    "static/media/github-142-svgrepo-com.svg": "/handspockets-landing-page/static/media/github-142-svgrepo-com.1a6e2b19fa37774df5ddbb77774e6997.svg",
+    "static/media/spotify.svg": "/handspockets-landing-page/static/media/spotify.6df6c1147a3f1365095287b7dfd8e019.svg",
+    "static/media/apple-music.svg": "/handspockets-landing-page/static/media/apple-music.0885aa6137a9018b5ee95869879c7e57.svg",
+    "index.html": "/handspockets-landing-page/index.html",
+    "static/media/tiktok.svg": "/handspockets-landing-page/static/media/tiktok.19fc74537cc2da027b186c5758b3f005.svg",
+    "static/media/bandcamp.svg": "/handspockets-landing-page/static/media/bandcamp.3ffb44882c6625b58835675faa763609.svg",
+    "static/media/tidal.svg": "/handspockets-landing-page/static/media/tidal.16349eb4f217dd7c97063ac94b19d603.svg",
+    "main.3b011ed9.css.map": "/handspockets-landing-page/static/css/main.3b011ed9.css.map",
+    "main.e0d7d0bd.js.map": "/handspockets-landing-page/static/js/main.e0d7d0bd.js.map",
+    "651.156f1c54.chunk.js.map": "/handspockets-landing-page/static/js/651.156f1c54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b011ed9.css",
+    "static/js/main.e0d7d0bd.js"
+  ]
+}
