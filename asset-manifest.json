@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/handspockets-landing-page/static/css/main.3b011ed9.css",
+    "main.css": "/handspockets-landing-page/static/css/main.0ceb7af4.css",
     "main.js": "/handspockets-landing-page/static/js/main.e0d7d0bd.js",
     "static/js/651.156f1c54.chunk.js": "/handspockets-landing-page/static/js/651.156f1c54.chunk.js",
     "static/media/Pigathan-Twirl-Logo.gif": "/handspockets-landing-page/static/media/Pigathan-Twirl-Logo.78a41dc8c4134d1265ba.gif",
@@ -13,12 +13,12 @@
     "static/media/tiktok.svg": "/handspockets-landing-page/static/media/tiktok.19fc74537cc2da027b186c5758b3f005.svg",
     "static/media/bandcamp.svg": "/handspockets-landing-page/static/media/bandcamp.3ffb44882c6625b58835675faa763609.svg",
     "static/media/tidal.svg": "/handspockets-landing-page/static/media/tidal.16349eb4f217dd7c97063ac94b19d603.svg",
-    "main.3b011ed9.css.map": "/handspockets-landing-page/static/css/main.3b011ed9.css.map",
+    "main.0ceb7af4.css.map": "/handspockets-landing-page/static/css/main.0ceb7af4.css.map",
     "main.e0d7d0bd.js.map": "/handspockets-landing-page/static/js/main.e0d7d0bd.js.map",
     "651.156f1c54.chunk.js.map": "/handspockets-landing-page/static/js/651.156f1c54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b011ed9.css",
+    "static/css/main.0ceb7af4.css",
     "static/js/main.e0d7d0bd.js"
   ]
 }
