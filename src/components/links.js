@@ -16,20 +16,32 @@ export default function Links() {
         <h1>STREAMING</h1>
         <ul>
           <li>
-            <LinkButton title="Bandcamp" icon={<BandcampIcon />} href={""} />
+            <LinkButton
+              title="Bandcamp"
+              icon={<BandcampIcon />}
+              href={"https://handspockets.bandcamp.com/track/not-worth-fixing"}
+            />
           </li>
           <li>
-            <LinkButton title="Tidal" icon={<TidalIcon />} href={""} />
+            <LinkButton
+              title="Tidal"
+              icon={<TidalIcon />}
+              href={"https://tidal.com/browse/artist/48870482?u"}
+            />
           </li>
           <li>
             <LinkButton
               title="Apple Music"
               icon={<AppleMusicIcon />}
-              href={""}
+              href={"https://music.apple.com/us/artist/handspockets/1755447005"}
             />
           </li>
           <li>
-            <LinkButton title="Spotify" icon={<SpotifyIcon />} href={""} />
+            <LinkButton
+              title="Spotify"
+              icon={<SpotifyIcon />}
+              href={"https://open.spotify.com/artist/7DZlkE9YRL6aDLuleXVBwQ"}
+            />
           </li>
         </ul>
       </div>
